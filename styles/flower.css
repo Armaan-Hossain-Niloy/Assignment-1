@@ -106,3 +106,44 @@ header {
     gap: 10px;
     color: white;
 }
+
+/* Section 2 styles */
+
+.section2{
+    margin-top: 100px;
+}
+
+.social-link {
+    text-align: center;
+}
+
+.social-media-title {
+    color: #272727;
+    text-align: center;
+    /* font-family: Lato; */
+    font-size: 40px;
+    /* font-style: normal; */
+    font-weight: 800;
+    /* line-height: normal; */
+}
+
+.social-media-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    /* font-family: Lato; */
+    font-size: 18px;
+    /* font-style: normal; */
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+.images{
+    display: block;
+    margin: 50px 240px 100px 240px;
+    /* margin: auto; */
+    text-align: center;
+}
+
+.img{
+    margin-right: 10px;
+}
