@@ -147,3 +147,9 @@ header {
 .img{
     margin-right: 10px;
 }
+
+/* section 3 styles */
+
+.section3{
+    background-image: url('../Flower Asset/Rectangle 9.png');
+}
