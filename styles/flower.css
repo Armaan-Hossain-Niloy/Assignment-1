@@ -163,9 +163,11 @@ header {
 .letest-deal {
     text-align: center;
 }
-.letest{
+
+.letest {
     padding-top: 100px;
 }
+
 .letest-deal-title {
     color: #272727;
     font-size: 40px;
@@ -201,4 +203,43 @@ header {
 
 .subscribetion {
     text-align: center;
+}
+
+/* this is footer style */
+
+footer {
+    background: #111010;
+    margin-top: 100px;
+}
+
+.flower {
+    color: #E55473;
+}
+
+.shop {
+    color: #FFFFFF;
+}
+
+.footer-title {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-content {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+small {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
 }
