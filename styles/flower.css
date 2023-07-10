@@ -1,9 +1,8 @@
-
 /* header section style */
 .bannar {
     display: flex;
     padding: 197px 240px 0px;
-    justify-content:space-between;
+    justify-content: space-between;
 
 }
 
@@ -15,9 +14,11 @@ header {
 .bannar-description {
     max-width: 800px;
 }
-.bannar-image{
+
+.bannar-image {
     max-width: 600px;
 }
+
 .bannar-title {
     color: #272727;
     /* font-family: Lato; */
@@ -37,6 +38,66 @@ header {
 }
 
 .bannar button {
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    color: white;
+}
+
+
+/* main section style */
+
+/* section 1 styles */
+
+.section1 {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 100px;
+    /* padding: 100px 350px 100px 350px; */
+}
+
+.hot-deal {
+    display: flex;
+    /* justify-content: space-between; */
+    text-align: center;
+    padding: 100px 350px 100px 350px;
+}
+
+.off {
+    /* border-radius: 8px; */
+    color: #E55473;
+}
+
+.deal-title {
+    color: #272727;
+    /* font-family: Lato; */
+    font-size: 40px;
+    /* font-style: normal; */
+    font-weight: 800;
+    /* line-height: normal; */
+}
+
+.deal-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.deal-content {
+    /* max-width: 400px; */
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.sign-up {
     border-radius: 8px;
     background: #E55473;
     display: inline-flex;
