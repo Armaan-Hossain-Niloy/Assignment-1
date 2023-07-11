@@ -12,12 +12,16 @@ body {
 header {
     background: rgba(229, 84, 115, 0.10);
     margin: 0 auto;
+    background-image: url('../Flower Asset/pngwing\ 10.png');
+    background-repeat: no-repeat;
+    background-position: 1000px 80px;
 }
 
 .bannar-description {
     max-width: 800px;
     padding-right: 100px;
     padding-top: 100px;
+    padding: 170px 950px 100px 240px;
 }
 
 
@@ -37,7 +41,7 @@ header {
     line-height: 30px;
 }
 
-.bannar button {
+.bannar-description button {
     border-radius: 8px;
     background: #E55473;
     display: inline-flex;
